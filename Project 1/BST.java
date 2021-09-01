@@ -1,8 +1,3 @@
-/*
-    Binary Search Tree implementation by cdl52
-*/
-package cs1501_p1;
-
 public class BST<T extends Comparable<T>> implements BST_Inter<T> {
 
     private BTNode<T> root;
